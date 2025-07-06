@@ -70,8 +70,6 @@ By integrating account, demographic, and enquiry data, we can build robust model
 ---
 
 ## ✅ Results
-
-- Model Accuracy: **96.3%** (update with actual)
 - Top Risk Drivers:
   - Enquiry frequency
   - Outstanding amount
